@@ -1,6 +1,6 @@
 public class javaaa {
     public static void main(String[] args) {
-        String ans = "juhiii";
+        String ans = "abcde";
         String res = len(ans);
         System.out.println(res);
     }
