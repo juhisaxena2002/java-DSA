@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class find_subseq {
     public static void main(String[] args) {
-     boolean res = find("pjuhi", "pj");
+     boolean res = find("abcde", "cd");
      System.out.println(res);
     }
     public static boolean find(String s1, String s2){
