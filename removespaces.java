@@ -1,6 +1,6 @@
 public class removespaces{
     public static void main(String[] args) {
-        String s = "prep insta j";
+        String s = "prep insta ";
         remove(s);
     }
     public static void remove(String s){
