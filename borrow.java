@@ -1,6 +1,6 @@
 public class borrow {
     public static void main(String[] args) {
-        int ans = reverse("praks");
+        int ans = reverse("abcd");
         System.out.println(ans);
     }
     public static int reverse(String s ){
