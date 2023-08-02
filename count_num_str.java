@@ -1,6 +1,6 @@
 public class count_num_str {
     public static void main(String[] args) {
-        String s = "8juhimake1and5";
+        String s = "8make1and5";
         int res = count_num(s);
         System.out.println(res);
     }
