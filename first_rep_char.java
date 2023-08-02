@@ -1,8 +1,8 @@
 public class first_rep_char {
     public static void main(String[] args) {
-        String s = "prakasrhhhjuhiii";
-        // System.out.println(s.indexOf("R"));
-        // System.out.println(s.lastIndexOf("R"));
+        String s = "abcdeef";
+        // System.out.println(s.indexOf("e"));
+        // System.out.println(s.lastIndexOf("e"));
         repeating(s);
         String ss= s.replaceAll("juhi", "jules");
         System.out.println(ss);
